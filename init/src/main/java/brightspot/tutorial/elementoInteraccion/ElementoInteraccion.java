@@ -15,7 +15,7 @@ public class ElementoInteraccion extends Content {
 	@Required
 	private String title;
 
-	@ToolUi.Note("Elemento a mostrar en la aplicacion si el valor url esta vacio - No implementado")
+	@ToolUi.Note("Elemento a mostrar en la aplicacion si el valor url esta vacio")
 	private Imagen image;
 	
 	@ToolUi.Note("Vinculo de la interaccion html a mostrar")
